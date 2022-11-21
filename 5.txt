@@ -1,0 +1,20 @@
+Requirements That Are Used To Build This Application:
+    I. Python 3 
+    II. requests library (pip install requests)
+    III. BeautifulSoup in Python (pip install beautifulsoup4)
+
+
+Step:- I
+    installing the above librarys and importing them to use in the pyhthon code 
+
+Step:- II
+    Use request library to get all the website's content using request.get ()
+    Convert that to plain HTML text by using responce.txt
+
+Step:- III
+    BeautifulSoup library is used to extract the contents from the website.
+
+
+Step:- 5 
+    we can save all the images locally into our system 
+
